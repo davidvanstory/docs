@@ -14,7 +14,6 @@ Blender MCP Repo https://github.com/ahujasid/blender-mcp
 
 so we checked out 
 Competitive Technologies: Rendable. Cannot edit. 
-
 and checked out 
 Zoo Dev. wants to be a browser 3D generation tool, but is crap. 
 
