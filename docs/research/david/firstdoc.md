@@ -12,10 +12,13 @@ Claude/Blender MCP https://www.youtube.com/watch?v=r7H60u0kHRA
 Blender MCP Repo https://github.com/ahujasid/blender-mcp
 - waaaaay better than we thought out of the box. We don't think there is enough innovation by adding a chat interface to the BlenderMCP. seems too easy. 
 
+so we checked out 
 Competitive Technologies: Rendable. Cannot edit. 
 
+and checked out 
 Zoo Dev. wants to be a browser 3D generation tool, but is crap. 
 
+and are now pivoting to..
 So we are making an in-browser 3D modelling CAD software where a user can prompt and make complex shapes. using Babylon.js
 
 
